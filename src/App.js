@@ -15,10 +15,10 @@ function App() {
       <Navbar />
       <Hero />
       <About />
-      <Skills />
       <Experience />
-      <Projects />
       <Certifications />
+      <Skills />
+      <Projects />
       <Contact />
       <Footer />
 

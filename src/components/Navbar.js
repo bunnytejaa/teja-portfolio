@@ -10,6 +10,7 @@ function Navbar() {
           <a href="#experience" className="hover:text-blue-400">Experience</a>
           <a href="#projects" className="hover:text-blue-400">Projects</a>
           <a href="#certifications" className="hover:text-blue-400">Certifications</a>
+          <a href="#publications" className="hover:text-blue-400">Publications</a>
           <a href="#contact" className="hover:text-blue-400">Contact</a>
         </div>
       </div>

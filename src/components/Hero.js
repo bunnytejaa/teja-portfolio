@@ -9,13 +9,26 @@ function Hero() {
           Full Stack Software Engineer
         </h1>
         <p className="mt-4 text-xl text-gray-300 max-w-xl">
-          I build scalable enterprise-grade .NET and React applications, 
+          I build scalable enterprise-grade .NET and React applications,
           automate workflows, and create modern UIs.
         </p>
 
-        <a href="#contact" className="inline-block mt-6 px-6 py-3 bg-blue-600 rounded-lg text-lg">
-          Contact Me
-        </a>
+        <div className="mt-6 flex gap-4">
+          <a
+            href="#contact"
+            className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg shadow-md transition"
+          >
+            Contact Me
+          </a>
+
+          <a
+            href="/resume.pdf"
+            download
+            className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg shadow-md transition"
+          >
+            Download Resume
+          </a>
+        </div>
       </div>
 
       <div className="flex-1 flex justify-center mb-10 sm:mb-0">

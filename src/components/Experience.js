@@ -3,9 +3,9 @@ import Reveal from "./Reveal";
 function Experience() {
   const experiences = [
     {
-      role: "Software Developer",
+      role: "Senior Software Developer",
       company: "Elevance Health (via Cognizant)",
-      duration: "Jul 2023 – Present | Dallas, TX",
+      duration: "Jan 2023 – Present | Dallas, TX",
       points: [
         "Developed and enhanced ASP.NET Core APIs used for provider credentialing, licensing, and compliance workflows across enterprise teams.",
         "Built ReactJS, Blazor, and .NET MVC components for internal dashboards, improving overall UI responsiveness and clarity.",
@@ -28,8 +28,8 @@ function Experience() {
     },
     {
       role: "Application Developer",
-      company: "SupraEdge Technologies",
-      duration: "Jun 2020 – Jul 2021 | Bangalore, India",
+      company: "Revoseven Technologies",
+      duration: "Jun 2017 – Jul 2021 | Bangalore, India",
       points: [
         "Built and maintained frontend components using ReactJS, JavaScript, and modern UI patterns.",
         "Developed backend modules in PHP and MySQL, including user authentication and role-based access features.",

@@ -7,6 +7,7 @@ import blockchainImg from "../assets/certificates/blockchain.png";
 import gustovalleyImg from "../assets/certificates/gustovalley.png";
 import infogain_bootcampImg from "../assets/certificates/infogain_bootcamp.png";
 import infogain_IsmsImg from "../assets/certificates/infogain_isms.png";
+import databricksImg from "../assets/certificates/databricks.png";
 
 function Certifications() {
   const certs = [
@@ -15,6 +16,12 @@ function Certifications() {
       issuer: "Microsoft / Coursera",
       image: microsoftImg,
       pdf: "/certificates/microsoft.pdf",
+    },
+    {
+      title: "Data Management with Databricks: Big Data with Delta Lakes",
+      issuer: "Coursera",
+      image: databricksImg,
+      pdf: "/certificates/databricks.pdf",
     },
     {
       title: "Web Development Specialization",

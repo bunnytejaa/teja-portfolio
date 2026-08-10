@@ -6,6 +6,7 @@ function Skills() {
       title: "Frontend",
       items: [
         "ReactJS",
+        "Angular",
         "TypeScript",
         "JavaScript (ES6+)",
         "HTML5",

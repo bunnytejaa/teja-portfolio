@@ -22,14 +22,14 @@ function Contact() {
               href="mailto:teja.uta@gmail.com"
               className="text-blue-400 hover:underline"
             >
-              teja.uta@gmail.com
+              teja.dev99@gmail.com
             </a>
           </p>
 
           <p>
             Phone:{" "}
             <span className="text-blue-400">
-              +1 (513) 496-4544
+              +1 (469) 844-0004
             </span>
           </p>
 
